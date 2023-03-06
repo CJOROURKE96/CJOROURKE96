@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @CJOROURKE96
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning HTML, CSS, JavaScript & React
+- 🌱 I’m currently learning AWS (Cloud Certified Practitioner) 
+- ✅ I have worked with JavaScript, HTML, CSS, Node.js, Express.js, PSQL, MongoDB, React & React Native

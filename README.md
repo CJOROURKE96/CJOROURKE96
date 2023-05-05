@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CJOROURKE96
+- 👋 Hi, I’m Connor
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning AWS (Cloud Certified Practitioner) 
+- 🌱 I’m currently learning C# 
 - ✅ I have worked with JavaScript, HTML, CSS, Node.js, Express.js, PSQL, MongoDB, React & React Native
